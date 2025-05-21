@@ -1,12 +1,234 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio1\\doubledispatch\\igameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\doubledispatch\\igameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio1\\doubledispatch\\papper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\doubledispatch\\papper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio1\\doubledispatch\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\doubledispatch\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio1\\doubledispatch\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4440FA0-601E-45C0-8D22-F7A0A9165FDE}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\doubledispatch\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\clientmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\clientmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\concretecolleageuser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\concretecolleageuser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\admingroupconcreatemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\admingroupconcreatemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\icolleage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\icolleage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\iadmingroupmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\iadmingroupmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\concretecolleageuser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\concretecolleageuser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lucia\\source\\repos\\disenodesistemas\\ejercicio4\\mediator\\concretecolleageuser3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCD1EF-C5A5-419C-ABDD-73FA79812A9A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mediator\\concretecolleageuser3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scissors.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\Scissors.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\DoubleDispatch\\Scissors.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\Scissors.cs",
+              "RelativeToolTip": "Ejercicio1\\DoubleDispatch\\Scissors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:26:10.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:26:09.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\Rock.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\DoubleDispatch\\Rock.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\Rock.cs",
+              "RelativeToolTip": "Ejercicio1\\DoubleDispatch\\Rock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:26:09.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Papper.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\Papper.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\DoubleDispatch\\Papper.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\Papper.cs",
+              "RelativeToolTip": "Ejercicio1\\DoubleDispatch\\Papper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:26:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\IGameObject.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\DoubleDispatch\\IGameObject.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio1\\DoubleDispatch\\IGameObject.cs",
+              "RelativeToolTip": "Ejercicio1\\DoubleDispatch\\IGameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:25:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\Singleton.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\Singleton.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\Singleton.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:38:16.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clientMediator.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\clientMediator.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\clientMediator.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\clientMediator.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\clientMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:08:25.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcreteColleageUser3.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\ConcreteColleageUser3.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\ConcreteColleageUser3.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\ConcreteColleageUser3.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\ConcreteColleageUser3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:46:49.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConcreteColleageUser2.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\ConcreteColleageUser2.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\ConcreteColleageUser2.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\ConcreteColleageUser2.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\ConcreteColleageUser2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:46:40.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IColleage.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\IColleage.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\IColleage.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\IColleage.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\IColleage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:10:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConcreteColleageUser1.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\ConcreteColleageUser1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\ConcreteColleageUser1.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\ConcreteColleageUser1.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\ConcreteColleageUser1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:46:17.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminGroupConcreateMediator.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\AdminGroupConcreateMediator.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\AdminGroupConcreateMediator.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\AdminGroupConcreateMediator.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\AdminGroupConcreateMediator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:45:39.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAdminGroupMediator.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\IAdminGroupMediator.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mediator\\IAdminGroupMediator.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\DisenoDeSistemas\\Ejercicio4\\Mediator\\IAdminGroupMediator.cs",
+              "RelativeToolTip": "Ejercicio4\\Mediator\\IAdminGroupMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:10:18.534Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
